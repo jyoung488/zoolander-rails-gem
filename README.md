@@ -24,7 +24,7 @@ Require in your environment.
 
 Include a quote using
 ```
-  <%= zoolander-rails.random %>
+  Zoolander::Rails.random
 ```
 
 ## Contributing
