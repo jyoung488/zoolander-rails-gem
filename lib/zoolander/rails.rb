@@ -2,7 +2,7 @@ require "zoolander/rails/version"
 
 module Zoolander
   module Rails
-    zoolander_quotes = ["You can read minds?",
+    Zoolander_quotes = ["You can read minds?",
       "I'm pretty sure there's a lot more to life than being really, really, ridiculously good looking.",
       "It's that damn Hansel! He's so hot right now!",
       "But why male models?",
@@ -35,8 +35,8 @@ module Zoolander
       "Todd! Are you not aware that I get farty and bloated with a foamy latte!?",
       "They're IN the computer?"]
 
-      def zoolander
-        zoolander_quotes.sample
+      def self.random
+        Zoolander_quotes.sample
       end
   end
 end
