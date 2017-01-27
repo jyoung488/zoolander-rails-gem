@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/zoolander-rails.svg)](https://badge.fury.io/rb/zoolander-rails)
+
 # Zoolander Quotes
 
 Zoolander-rails provides you with random Zoolander quotes for your app. From Zoolander 1 only, of course.
