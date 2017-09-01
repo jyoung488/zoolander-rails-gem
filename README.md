@@ -31,7 +31,7 @@ Include a quote using
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jyoung488/zoolander-rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jyoung488/zoolander-rails-gem. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
@@ -39,4 +39,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/jyoung
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 ## Author
-* Jennifer Young | <mailto:jyoung488@gmail.com>
+* Jennifer Young | [jyoung488@gmail.com](mailto:jyoung488@gmail.com)
